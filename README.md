@@ -2,7 +2,7 @@
 
 * Machine Learning(ML)과 관련된 내용을 정리하는 저장소입니다. 
 * ML은 과거 Statistical Model에서 파생되었기에 관련 이론 역시 공부할 예정입니다. 
-* 해당 저장소는 ML를 다루는 책 내용을 정리하고, Statistical Model 이론서를 구현할 예정입니다.
+* 해당 저장소는 ML를 다루는 책 내용을 정리합니다.
 
 
 
